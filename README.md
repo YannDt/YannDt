@@ -2,11 +2,12 @@
 
 ### Sobre Mim
 <p>
-    Profissional com perfil analítico e apaixonado por tecnologia, buscando por uma oportunidade como desenvolvedor junior.
+    Possuo um perfil analítico e tenho muito interesse em aprender novas tecnologias e desenvolver as que já conheço.
 <p>
-    Atualmente trabalhando com bancos de dados SQL Server, em conjunto com Power BI e Pentaho. Experiência com Software Asset Management (SAM), atuando na gestão e garantia de compliance em ambientes com produtos Microsoft, VMware e IBM.
+    Atualmente trabalhando com análise de dados, bancos de dados SQL Server, Power BI e Kibana. Realizei diversos projetos particulares em Python e procuro sempre aprender mais.
+Experiência com Software Asset Management (SAM), atuando como consultor para fornecer apoio técnico e estratégico em gestão de custos, governança de TI e garantia de compliance em ambientes de servidores físicos e virtuais.
 <p>
-    Conhecimentos avançados em Excel e Inglês. Bom conhecimento de Python, Java e Photoshop.
+    Conhecimentos avançados em Excel e Inglês.
   
 ### Principais Skills:
 
