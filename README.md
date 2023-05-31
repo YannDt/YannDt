@@ -1,42 +1,10 @@
-# Olá! Me chamo Yann Lira.
+# Olá! Me chamo Yann, tenho 22 anos e sou formado em Sistemas de Informação.
 
 ### Sobre Mim
 <p>
-    Possuo um perfil analítico e tenho muito interesse em aprender novas tecnologias e desenvolver as que já conheço.
+    No momento trabalho como Engenheiro de Dados, trabalho principalmente com Python, Spark, Terraform e diversas tecnologias da AWS.
 <p>
-    Atualmente trabalhando com análise de dados, bancos de dados SQL Server, Power BI e Kibana. Realizei diversos projetos particulares em Python e procuro sempre aprender mais.
-Experiência com Software Asset Management (SAM), atuando como consultor para fornecer apoio técnico e estratégico em gestão de custos, governança de TI e garantia de compliance em ambientes de servidores físicos e virtuais.
-<p>
-    Conhecimentos avançados em Excel e Inglês.
-  
-### Principais Skills:
-
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
-
-### Ferramentas
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
-
-### Estudando no momento:
-
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
-
-### Áreas de Interesse:
-
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
+    Também possuo expêriencia com análise de dados, bancos de dados SQL Server, Power BI, Excel e ferramentas voltadas a gerenciamento de ativos de software (SAM).
 
 ### GitHub Analytics:
 
