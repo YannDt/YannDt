@@ -1,4 +1,4 @@
-# Hello! My name is Yann, I'm 22 years old and I have a degree in Information Systems.
+# Hello! My name is Yann.
 
 ### Sobre Mim
 <p>
